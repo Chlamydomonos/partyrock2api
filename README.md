@@ -1,6 +1,6 @@
 # Partyrock2api
 
-Fork自https://github.com/cchking/partyrock2api，略作修改以适配SillyTavern。
+Fork自https://github.com/cchking/partyrock2api ，略作修改以适配SillyTavern。
 
 只修改了Typescript版本，Python版本仍然不能连接SillyTavern。
 
